@@ -2,7 +2,7 @@
 layout: post
 title:  "We Start with Coffee"
 date:   2024-08-31 09:43:58 -0700
-categories: coffee
+categories: off-topic
 ---
 Before we get started, let's make (my) perfect cup of coffee.
 
@@ -22,7 +22,7 @@ We'll need the following tools to get this job done:
 9. Espresso grind agitator
 10. 53mm puck screen
 11. Espresso knock box
-12. Quality, fresh, whole coffee beans
+12. [Anchorhead Leviathan Blend whole coffee beans](https://anchorheadcoffee.com/collections/all/products/leviathan-espresso-blend)
 13. Stainless steel milk frothing jug
 14. Dial thermometer
 15. Whole Grassmilk (milk from grass-fed cows... you can't milk grass)
@@ -102,7 +102,10 @@ After ten seconds, release the single shot button to start high-pressure
 extraction. Start the timer on your scale at this time.
 
 When your scale reads **36 grams** of espresso in the mug, press the single shot
-button again to end the extraction process.
+button again to end the extraction process. The timer on your scale should read
+~20 - 30 seconds of extraction.
+
+> I have found that the fresher that my beans are, the longer the extraction.
 
 ### Step 12: Dump grinds
 Remove the mug and scale from under the portafilter and set aside.
