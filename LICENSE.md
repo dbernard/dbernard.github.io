@@ -1,6 +1,14 @@
-MIT License
+# Posts
 
-Copyright (c) 2024 Dylan Bernard
+All files in the `_posts` directory are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+# Other files
+
+Files not explicitly mentioned in previous paragraphs are licensed under MIT License.
+
+---
+
+# MIT License
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

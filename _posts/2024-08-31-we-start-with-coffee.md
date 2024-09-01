@@ -29,17 +29,17 @@ We'll need the following tools to get this job done:
 
 ## The Art
 
-### Step 1: Boil Water
+### Step 1: Boil water
 Add about 8 fluid ounces of water to your teapot and boil.
 
 If you're already confused - no, this water isn't for the espresso. Read on!
 
-### Step 2: Pre-warm Your Mug
+### Step 2: Pre-warm your mug
 Once boiling, turn off the heat to your teapot and fill your mug about half full
 with the hot water. Let rest on the counter while your move on to the remaining
 steps.
 
-### Step 3: Measure Your Beans
+### Step 3: Measure your beans
 With your precision scale, measure out **18.5 grams** of whole beans (*most
 double shot portafilter baskets fit about 18g but this is heavily influenced by
 the beans and grind size*). Add these beans to the hopper of the Barista Express
@@ -50,7 +50,7 @@ Machine's burr grinder.
 > *I configure my machine to use an internal grind size of 3, and external grind
 > size of 3. This works for my beans, but YMMV.*
 
-### Step 4: Grind Your Beans
+### Step 4: Grind your beans
 Attach the dosing funnel to your portafilter, then push the portafilter into the
 grind chute. **Hold the portafilter against the grind button to allow manual
 grind duration**. Hold until all beans have been ground.
