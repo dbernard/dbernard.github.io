@@ -4,7 +4,10 @@ title:  "What is a Product Staff Engineer?"
 date:   2024-09-02
 categories: technology
 ---
-TODO
+How can a product-focused engineer fit into the role of Staff Engineer? What
+tools and expertise can they leverage to provide organizational impact? In this
+post we will define what a Product Staff Engineer is, and how they might realize
+this impact.
 
 ## What is a "Product Engineer"?
 
@@ -91,7 +94,7 @@ operate primarily in the product problem space.
 
 A Product Staff Engineer, as with any Staff-plus role, will first and foremost
 be responsible for taking on work that allows them to provide the highest impact
-for your organization. That may mean stepping **outside** of their focus area,
+for their organization. That may mean stepping **outside** of their focus area,
 even temporarily, to drive change.
 
 A Product Staff Engineer should also seek to guide best practices and influence
