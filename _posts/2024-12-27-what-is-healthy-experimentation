@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "How Healthy Experimentation Drives Healthy Innovation"
-date:   2024-12-18
+title:  "Laying the Foundation: What is Healthy Experimentation?"
+date:   2024-12-27
 categories: experimentation
 ---
 If you're supporting a technical product that has achieved some level of market
@@ -106,3 +106,8 @@ experiment.
 This acceleration is similar to the notion of compound interest, allowing us to
 leverage and build on past success and learnings to achieve even greater
 returns.
+
+# Next up
+This article is the start of a series on experimentation within a technical
+product. The next chapter will explore trust as a fundamental pillar for
+experimentation, and how you might achieve and maintain it.
