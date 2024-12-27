@@ -78,7 +78,7 @@ the competitive edge.
 Individual experiments in isolation can be incredibly informative, but the
 archive of learnings across experiments is invaluable.
 
-When experiments are trusted, stable, and observable (both while running
+When experiments are trusted, stable, and observable (both while running and
 historically), we grow this set of learnings more quickly and can apply it to
 new explorations more easily. This can inform the "types" of efforts that we
 pursue or the business level metrics that we should target for highest impact.
@@ -89,6 +89,12 @@ experimentation can be actively harmful to your organization and the business.
 This harm can come in the form of **distrust** in your organization's
 experiments, **instability** in your experimentation framework, and difficulty
 understanding why all of the above might be happening.
+
+As a result, unhealthy experiments can make the process of decision making feel
+like wading through mud. When we finally do come to some conclusion, its usually
+a bit unsatisfying due to the cloud of uncertainty hanging overhead. Worse yet,
+if that conclusion turns out to be incorrect, our time is spent undoing the
+damage rather than moving on to the next initiative.
 
 Healthy experimentation and a culture that puts value on experimentation are
 accelerators, allowing your organization to learn more about its customers and
