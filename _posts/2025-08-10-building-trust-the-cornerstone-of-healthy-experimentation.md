@@ -70,7 +70,7 @@ lost.
 The most toxic aspect of data unreliability is that when it is discovered, we
 may start to question **all** of our historical decision making.
 
-## What is a "trustworthy" experimentation platform?
+## What is a "Trustworthy" Experimentation Platform?
 
 The hard part is that we need all of these things to foster a truly healthy
 experimentation platform, and we need them to be **verifiable**. That is to say,
