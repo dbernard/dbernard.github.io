@@ -136,21 +136,21 @@ depends"_... but not entirely.
 
 As it relates to technical experimentation frameworks, there are a few
 architectural characteristics that have an outsized level of importance:
-- _Reliability._ A trustworthy experimentation platform cannot be flaky, drop
+- **_Reliability._** A trustworthy experimentation platform cannot be flaky, drop
 events, or introduce risk to the underlying treatments. Focus on uptime, data
 integrity, and fault tolerance.
-- _Accuracy._ Even with 100% availability, a technical experimentation platform 
+- **_Accuracy._** Even with 100% availability, a technical experimentation platform 
 is without value if assignment logic and metrics are incorrect. Focus on
 unbiased randomization, correct metrics computation, and safeguarding against
 contamination of results.
-- _Auditability._ Stakeholders may want to be able to verify how results were
+- **_Auditability._** Stakeholders may want to be able to verify how results were
 derived to rule out forms of manipulation, or just to understand more about the
 outcome. Focus on logging, transparent configuration, and immutable data.
-- _Observability._ When something **does** go wrong with an experiment,
+- **_Observability._** When something **does** go wrong with an experiment,
 stakeholders will want to understand what and why. Being able to diagnose issues
 quickly will keep teams efficient and unblocked. Focus on coherent metrics,
 accessible data sources, and user-friendly dashboards.
-- _Usability._ An otherwise perfect system will suffer if it is easy to
+- **_Usability._** An otherwise perfect system will suffer if it is easy to
 misconfigure experiments or misinterpret results. Focus on a clear
 user/developer experience, guardrails against common mistakes, and an accessible
 knowledge base.
@@ -194,7 +194,7 @@ know, or Product/Analytics stakeholders to start to doubt the validity of past
 and present experiments.
   
 
-**Conclusion**
+# Conclusion
 
 Trust is the cornerstone of a healthy experimentation platform **and** a healthy
 culture of experimentation. Building trust up as a core tenet of experimentation
