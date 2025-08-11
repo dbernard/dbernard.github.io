@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Laying the Foundation: What is Healthy Experimentation?"
+title:  "1. Laying the Foundation: What is Healthy Experimentation?"
 date:   2024-12-27
 categories: experimentation
 ---
@@ -111,3 +111,5 @@ returns.
 This article is the start of a series on experimentation within a technical
 product. The next chapter will explore trust as a fundamental pillar for
 experimentation, and how you might achieve and maintain it.
+
+_Read it here: {% post_url 2024-12-27-what-is-healthy-experimentation %}_
