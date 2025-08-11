@@ -4,7 +4,7 @@ title:  "2. Building Trust: The Cornerstone of Healthy Experimentation"
 date:   2025-08-10
 categories: experimentation
 ---
-In the last post {% post_url 2024-12-27-what-is-healthy-experimentation %}, we
+In the [last post]({% post_url 2024-12-27-what-is-healthy-experimentation %}), we
 discussed how a healthy experimentation culture drives healthy innovation within
 your product.
 
