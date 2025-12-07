@@ -7,4 +7,4 @@ categories: Personal Development
 # Find me on Bluesky!
 If you enjoy the content on this blog, consider following me on Bluesky!
 
-[@theproductstaffeng.com](https://bsky.app/profile/theproductstaffeng.com)
+[@dylanbernard.com](https://bsky.app/profile/dylanbernard.com)
