@@ -31,11 +31,25 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: dbernard
 
 # Build settings
-theme: minima 
+theme: minima
 # remote_theme: pages-themes/tactile@v0.2.0
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+
+# Collections
+collections:
+  astrophotography:
+    output: true
+    permalink: /astrophotography/:title/
+
+# Collection defaults
+defaults:
+  - scope:
+      path: ""
+      type: "astrophotography"
+    values:
+      layout: "astrophotography"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
