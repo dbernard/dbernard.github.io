@@ -21,10 +21,10 @@
 title: The Product Staff Engineer
 email: dylan@dylanbernard.com
 description: >- # this means to ignore newlines until "baseurl:"
-  In this blog we explore the role of a Product-focused Staff Engineer within
-  a technology organization. What makes the role of a Product Staff Engineer
-  unique? How do I best support my organization as a Product-focused Staff
-  Engineer?
+  Hey, I'm Dylan. I live and work in Seattle, WA with my little family. I'm a
+  product-focused Staff Engineer with a soft spot for nature, obscure movies,
+  and clear, dark skies. This blog is home to some of my technical musings and
+  astrophotography work.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
