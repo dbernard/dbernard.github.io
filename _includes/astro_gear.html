@@ -1,0 +1,15 @@
+{%- assign gear_list = site.data.astro_gear[include.gear_key] -%}
+{%- if gear_list -%}
+<section class="astro-gear-section">
+  <hr />
+  <h2 class="astro-gear-heading">Gear Used</h2>
+  <ul class="astro-gear-list">
+    {%- for item in gear_list -%}
+    <li class="astro-gear-item">
+      <span class="astro-gear-category">{{ item.category }}</span>
+      <a href="{{ item.url }}" class="astro-gear-link" target="_blank" rel="noopener noreferrer">{{ item.name }}</a>
+    </li>
+    {%- endfor -%}
+  </ul>
+</section>
+{%- endif -%}

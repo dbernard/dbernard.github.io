@@ -25,6 +25,10 @@ layout: default
     {{ content }}
   </div>
 
+  {%- if page.gear -%}
+    {%- include astro_gear.html gear_key=page.gear -%}
+  {%- endif -%}
+
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
   {%- endif -%}

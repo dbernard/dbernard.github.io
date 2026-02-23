@@ -112,6 +112,52 @@ body.astrophotography {
     border-color: #415a77;
   }
 
+  /* Gear list at bottom of astrophotography posts */
+  .astro-gear-section {
+    margin-top: 40px;
+
+    .astro-gear-heading {
+      font-size: 1.2rem;
+    }
+
+    .astro-gear-list {
+      list-style: none;
+      margin-left: 0;
+    }
+
+    .astro-gear-item {
+      display: flex;
+      gap: 12px;
+      padding: 8px 0;
+      border-bottom: 1px solid #1b263b;
+      align-items: baseline;
+
+      &:last-child {
+        border-bottom: none;
+      }
+    }
+
+    .astro-gear-category {
+      color: #8d99ae;
+      font-size: 0.85rem;
+      min-width: 110px;
+      flex-shrink: 0;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+    }
+
+    @media screen and (max-width: 600px) {
+      .astro-gear-item {
+        flex-direction: column;
+        gap: 4px;
+      }
+
+      .astro-gear-category {
+        min-width: unset;
+      }
+    }
+  }
+
   /* Astrophotography post list with thumbnails */
   .astro-post-list {
     list-style: none;

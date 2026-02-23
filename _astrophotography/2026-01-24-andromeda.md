@@ -3,6 +3,7 @@ title: "Andromeda Galaxy (M31) - First Light After a Hiatus"
 date: 2026-01-24
 image: /assets/images/M31_20260124_v2.jpg
 categories: Astrophotography, off-topic, M31, Andromeda
+gear: astro_gear_2025
 ---
 
 ![Andromeda Galaxy](/assets/images/M31_20260124_v2.jpg)
@@ -32,5 +33,3 @@ between hanging out with my kid", so I don't feel bad about where I landed.
 
 I also finally picked up [Pixinsight](https://pixinsight.com/) and man is it so
 much better than Photoshop for my expendable time and current knowledge.
-
-I'll update this post later to include the gear I used to capture this data.
