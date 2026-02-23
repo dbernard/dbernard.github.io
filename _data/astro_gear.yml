@@ -1,0 +1,25 @@
+astro_gear_2025:
+  - category: Telescope
+    name: "Apertura 60mm FPL-53 Doublet APO Refractor"
+    url: "https://www.highpointscientific.com/apertura-60m-fpl-53-doublet-apo-refracting-telescope-60edr"
+  - category: Camera
+    name: "ZWO ASI533MC Pro USB3 Cooled Color Camera"
+    url: "https://www.highpointscientific.com/zwo-asi533mc-pro-usb3-cooled-color-camera-asi533mc-p"
+  - category: Controller
+    name: "ZWO ASIAIR Plus WiFi Camera Controller"
+    url: "https://www.highpointscientific.com/zwo-asiair-plus-wifi-camera-controller-256gb-version"
+  - category: Mount
+    name: "Sky-Watcher EQ6-R Pro Computerized Equatorial Mount"
+    url: "https://www.highpointscientific.com/sky-watcher-eq6-r-pro-mount-s30300"
+  - category: Guide Camera
+    name: "ZWO ASI120MM Mini Monochrome Astronomy Camera"
+    url: "https://www.highpointscientific.com/zwo-asi120mm-monochrome-mini-astronomy-camera-asi120mini"
+  - category: Guide Scope
+    name: "Apertura 32mm Guide Scope"
+    url: "https://www.highpointscientific.com/apertura-32-mm-guide-scope-blue-accent"
+  - category: Filter Wheel
+    name: "ZWO 5 Position Electronic Filter Wheel for 2\" Filters"
+    url: "https://www.highpointscientific.com/zwo-5-position-electronic-filter-wheel-for-2-filters-efw-5x2"
+  - category: Auto Focuser
+    name: "ZWO Advanced Electronic Automatic Focuser"
+    url: "https://www.highpointscientific.com/zwo-electronic-automatic-focuser-2025"
