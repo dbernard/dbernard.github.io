@@ -2,7 +2,9 @@
 layout: post
 title:  "My Personal AI Principles"
 date:   2025-08-13
-categories: AI, Personal Development
+categories:
+  - AI
+  - Personal Development
 ---
 # My Personal AI Principles
 AI use in the Tech world has already become commonplace (with mixed feelings

@@ -2,7 +2,9 @@
 layout: post
 title:  "Tech Writing in the LLM Era"
 date:   2026-03-30
-categories: AI, Personal Development
+categories:
+  - AI
+  - Personal Development
 ---
 # Tech Writing in the LLM Era
 
