@@ -9,7 +9,7 @@ categories:
 # What I Learned from my First Vibe Coded Project
 I haven't manually written large portions of code in quite a while thanks to Claude and the improvements made by Opus, though I typically am still very hands-on. Recently I decided to invest some time in intentionally vibe coding a solution to a problem I was having as a way to learn more about coding agents and "AI-native" development that I might not have learned without loosening my grip on the process.
 
-This was successful beyond my expectations, but has also reaffirmed my belief that being intentional about where we relinquish control over development 
+This was successful beyond my expectations, but has also reaffirmed my belief that being intentional about where we relinquish control over development is still important for mature, user-facing systems.
 
 ## The problem
 Recently, I find myself context switching more often than the pre-LLM days. Coding agents have just made it more accessible to juggle more tasks and as the Staff Engineer for my group of three teams, this has unlocked faster feedback loops across projects for me ([for better or worse...](https://lethain.com/limiting-wip/)).
