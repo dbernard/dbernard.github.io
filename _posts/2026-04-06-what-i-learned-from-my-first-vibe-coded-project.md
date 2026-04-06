@@ -35,7 +35,12 @@ My process was effectively:
 4. Drive code review primarily though other adversarial agents.
 5. **Manually** review for glaring issues (security issues, misunderstood requirements, etc.) once the agents reached consensus on approval.
  
-Here are a couple things I've learned **so far**.
+Here is a brain dump of things I've learned **so far**.
+
+### Process that worked
+1. **Structure your project with agentic development as a first class consideration.** Take the time to write a good `CLAUDE.md`, define default permissions for Claude to reduce friction, create relevant skill and slash commands to consolidate reusable prompts, and build a knowledge base for agents to learn how to use this code, important architectural decisions, and relevant guardrails.
+2. **Structure agent documentation for progressive disclosure.** Do not dump every bit of context into your `CLAUDE.md`. Instead, consider a `docs/` directory with categorized documentation that an agent can discover when needed ([example](https://github.com/dbernard/spaceheater/tree/main/docs)). This will help control token consumption.
+3. **Use fresh agents across tasks.** The industry has noticed that quality can degrade as context fills up. Start **new** tasks with fresh agents rather than using `--continue` or `--resume` to pick an existing session back up. If you find that you're using old sessions because new agents are missing something important, you're missing something in your agent documentation.
 
 ### The "good"
 1. **Vibe coding is not inherently bad.** My first reaction to the concept of vibe coding in the early days of coding agent adoption was visceral. Having done this for over a decade, its hard to separate yourself from the development process without feeling a little anxious. **That said**, not all code needs to be perfect, and sometimes fast and functional is good enough. Consider the context - one-off scripts or personal tools are very different from user-facing production code.
