@@ -2,7 +2,10 @@
 title: "Andromeda Galaxy (M31) - First Light After a Hiatus"
 date: 2026-01-24
 image: /assets/images/M31_20260124_v2.jpg
-categories: Astrophotography, off-topic, M31, Andromeda
+categories:
+  - astrophotography
+  - off-topic
+  - galaxy
 gear: astro_gear_2025
 ---
 
