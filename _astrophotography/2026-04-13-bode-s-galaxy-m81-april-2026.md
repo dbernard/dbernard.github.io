@@ -17,13 +17,13 @@ gear: astro_gear_2025
 
 We had two clear nights last week that allowed me to capture nearly 10 hours of exposures for Bode's Galaxy (M81).
 
-Bode's Galaxy is a great target for my location given its proximity to Polarus (the "north star" used for polar
+Bode's Galaxy is a great target for my location given its proximity to Polaris (the "north star" used for polar
 alignment). The galaxy doesn't move far in the sky throughout the night - it mostly rotates around that north star as
 the Earth spins. This is great because one issue I run into with my backyard astrophotography is losing targets behind
 trees or buildings - we have these beautiful 6+ story evergreens all around us that deep sky targets love to hide behind
 throughout the night.
 
-Because M81 is so close to polarus and doesn't drop very low, I was able to keep my scope on it for a very long time
+Because M81 is so close to Polaris and doesn't drop very low, I was able to keep my scope on it for a very long time
 each night.
 
 I also tried a new approach to help with my editing. To help reduce star bloat from the long 3 minute exposures of the
