@@ -43,4 +43,6 @@ Will Larson's _Crafting Engineering Strategy_ puts an approachable face on engin
 
 _Crafting Engineering Strategy_ filled those gaps for me. It does this by suggesting a structured approach to crafting strategy, with industry proven tools to support the process. Where descriptions aren't enough, Larson's proven formula of presenting grounded case studies and examples demonstrates the process.
 
+What I value most about Larson's work is this grounding in real world interviews and case studies. The examples provided in this book are what elevates the subject for me, providing clear examples of application across very real topics (service migration, LLM adoption, and private equity). This succeeds where the alternatives fail - demonstrating not just the final outcomes, **but how we got there**.
+
 I would strongly recommend this book to any technical leader looking to provide value through engineering strategy!
